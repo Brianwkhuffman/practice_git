@@ -5,3 +5,6 @@ console.log(day);
 console.log('Another practice');
 var iceCream = 'I like ice cream.';
 console.log(iceCream);
+
+var gundam = "Wing Gundam";
+console.log(gundam);
